@@ -1,2 +1,0 @@
-# Summary Statistics
-(Run the analysis notebook to populate this file with key metrics)
